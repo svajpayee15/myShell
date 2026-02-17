@@ -183,7 +183,3 @@ This project is intended for:
 - Add cross-platform support
 
 ---
-
-## 📄 License
-
-Educational use.
