@@ -168,7 +168,7 @@ This project is intended for:
 
 - Learning how shells work
 - Understanding `PATH` resolution
-- Practicing C++17 features
+- Practicing C++17 features.
 - Building a foundation for a more advanced shell
 
 ---
